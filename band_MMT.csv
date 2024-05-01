@@ -1,0 +1,453 @@
+"","ID","Species","Height","Comp","Elevation","Moisture","Stand","TWI","band","MMT","Year","ABAI"
+"1","MRS11_12","PIEN","Suppressed",3.922107,3347,"Mesic","Old spruce-fir at timberline",-5.362922,"Band_2020",2.37,2020,0.01292598
+"2","MRS11_12","PIEN","Suppressed",3.922107,3347,"Mesic","Old spruce-fir at timberline",-5.362922,"Band_2021",1.19,2021,0.00649026
+"3","MRS11_12","PIEN","Suppressed",3.922107,3347,"Mesic","Old spruce-fir at timberline",-5.362922,"Band_2022",3.8,2022,0.0207252
+"4","MRS11_12","PIEN","Suppressed",3.922107,3347,"Mesic","Old spruce-fir at timberline",-5.362922,"Band_2023",2.28,2023,0.01243512
+"5","MRS11_127","ABLA","Suppressed",7.040087,3347,"Mesic","Old spruce-fir at timberline",-6.057245,"Band_2020",3.6,2020,0.0196344
+"6","MRS11_127","ABLA","Suppressed",7.040087,3347,"Mesic","Old spruce-fir at timberline",-6.057245,"Band_2021",2.89,2021,0.01576206
+"7","MRS11_127","ABLA","Suppressed",7.040087,3347,"Mesic","Old spruce-fir at timberline",-6.057245,"Band_2022",4.89,2022,0.02667006
+"8","MRS11_127","ABLA","Suppressed",7.040087,3347,"Mesic","Old spruce-fir at timberline",-6.057245,"Band_2023",3.82,2023,0.02083428
+"9","MRS11_13","PIEN","Suppressed",3.589797,3347,"Mesic","Old spruce-fir at timberline",-5.362922,"Band_2020",0,2020,0
+"10","MRS11_13","PIEN","Suppressed",3.589797,3347,"Mesic","Old spruce-fir at timberline",-5.362922,"Band_2021",0.2,2021,0.0010908
+"11","MRS11_13","PIEN","Suppressed",3.589797,3347,"Mesic","Old spruce-fir at timberline",-5.362922,"Band_2022",2.43,2022,0.01325322
+"12","MRS11_13","PIEN","Suppressed",3.589797,3347,"Mesic","Old spruce-fir at timberline",-5.362922,"Band_2023",1.32,2023,0.00719928
+"13","MRS11_177","ABLA","Co-Dominant",1.70088,3347,"Mesic","Old spruce-fir at timberline",-5.378009,"Band_2020",7.64,2020,0.04166856
+"14","MRS11_177","ABLA","Co-Dominant",1.70088,3347,"Mesic","Old spruce-fir at timberline",-5.378009,"Band_2021",8.58,2021,0.04679532
+"15","MRS11_177","ABLA","Co-Dominant",1.70088,3347,"Mesic","Old spruce-fir at timberline",-5.378009,"Band_2022",9.51,2022,0.05186754
+"16","MRS11_177","ABLA","Co-Dominant",1.70088,3347,"Mesic","Old spruce-fir at timberline",-5.378009,"Band_2023",4.9,2023,0.0267246
+"17","MRS11_209","ABLA","Suppressed",4.115312,3347,"Mesic","Old spruce-fir at timberline",-5.343732,"Band_2020",6.21,2020,0.03386934
+"18","MRS11_209","ABLA","Suppressed",4.115312,3347,"Mesic","Old spruce-fir at timberline",-5.343732,"Band_2021",6.38,2021,0.03479652
+"19","MRS11_209","ABLA","Suppressed",4.115312,3347,"Mesic","Old spruce-fir at timberline",-5.343732,"Band_2022",10.35,2022,0.0564489
+"20","MRS11_209","ABLA","Suppressed",4.115312,3347,"Mesic","Old spruce-fir at timberline",-5.343732,"Band_2023",11.11,2023,0.06059394
+"21","MRS11_221","PIEN","Suppressed",1.478451,3347,"Mesic","Old spruce-fir at timberline",-5.305917,"Band_2020",0,2020,0
+"22","MRS11_221","PIEN","Suppressed",1.478451,3347,"Mesic","Old spruce-fir at timberline",-5.305917,"Band_2021",4.45,2021,0.0242703
+"23","MRS11_221","PIEN","Suppressed",1.478451,3347,"Mesic","Old spruce-fir at timberline",-5.305917,"Band_2022",1.5,2022,0.008181
+"24","MRS11_221","PIEN","Suppressed",1.478451,3347,"Mesic","Old spruce-fir at timberline",-5.305917,"Band_2023",8.48,2023,0.04624992
+"25","MRS11_259","ABLA","Suppressed",3.643079,3347,"Mesic","Old spruce-fir at timberline",-5.343732,"Band_2020",0,2020,0
+"26","MRS11_259","ABLA","Suppressed",3.643079,3347,"Mesic","Old spruce-fir at timberline",-5.343732,"Band_2021",5.12,2021,0.02792448
+"27","MRS11_259","ABLA","Suppressed",3.643079,3347,"Mesic","Old spruce-fir at timberline",-5.343732,"Band_2022",2.35,2022,0.0128169
+"28","MRS11_259","ABLA","Suppressed",3.643079,3347,"Mesic","Old spruce-fir at timberline",-5.343732,"Band_2023",1.82,2023,0.00992628
+"29","MRS11_273","PIEN","Suppressed",3.151341,3347,"Mesic","Old spruce-fir at timberline",-5.305917,"Band_2020",7.53,2020,0.04106862
+"30","MRS11_273","PIEN","Suppressed",3.151341,3347,"Mesic","Old spruce-fir at timberline",-5.305917,"Band_2021",5.69,2021,0.03103326
+"31","MRS11_273","PIEN","Suppressed",3.151341,3347,"Mesic","Old spruce-fir at timberline",-5.305917,"Band_2022",10.16,2022,0.05541264
+"32","MRS11_273","PIEN","Suppressed",3.151341,3347,"Mesic","Old spruce-fir at timberline",-5.305917,"Band_2023",9.79,2023,0.05339466
+"33","MRS11_274","ABLA","Suppressed",2.669619,3347,"Mesic","Old spruce-fir at timberline",-5.305917,"Band_2020",7.7,2020,0.0419958
+"34","MRS11_274","ABLA","Suppressed",2.669619,3347,"Mesic","Old spruce-fir at timberline",-5.305917,"Band_2021",6.9,2021,0.0376326
+"35","MRS11_274","ABLA","Suppressed",2.669619,3347,"Mesic","Old spruce-fir at timberline",-5.305917,"Band_2022",8.65,2022,0.0471771
+"36","MRS11_274","ABLA","Suppressed",2.669619,3347,"Mesic","Old spruce-fir at timberline",-5.305917,"Band_2023",7.15,2023,0.0389961
+"37","MRS11_28","ABLA","Suppressed",5.674222,3347,"Mesic","Old spruce-fir at timberline",-6.400082,"Band_2020",5.74,2020,0.03130596
+"38","MRS11_28","ABLA","Suppressed",5.674222,3347,"Mesic","Old spruce-fir at timberline",-6.400082,"Band_2021",3.84,2021,0.02094336
+"39","MRS11_28","ABLA","Suppressed",5.674222,3347,"Mesic","Old spruce-fir at timberline",-6.400082,"Band_2022",6,2022,0.032724
+"40","MRS11_28","ABLA","Suppressed",5.674222,3347,"Mesic","Old spruce-fir at timberline",-6.400082,"Band_2023",4.84,2023,0.02639736
+"41","MRS11_29","PIEN","Suppressed",1.676232,3347,"Mesic","Old spruce-fir at timberline",-6.400082,"Band_2020",4.1,2020,0.0223614
+"42","MRS11_29","PIEN","Suppressed",1.676232,3347,"Mesic","Old spruce-fir at timberline",-6.400082,"Band_2021",0.25,2021,0.0013635
+"43","MRS11_29","PIEN","Suppressed",1.676232,3347,"Mesic","Old spruce-fir at timberline",-6.400082,"Band_2022",11.39,2022,0.06212106
+"44","MRS11_29","PIEN","Suppressed",1.676232,3347,"Mesic","Old spruce-fir at timberline",-6.400082,"Band_2023",1.13,2023,0.00616302
+"45","MRS11_3","ABLA","Suppressed",5.5208,3347,"Mesic","Old spruce-fir at timberline",-6.45028,"Band_2020",6.44,2020,0.03512376
+"46","MRS11_3","ABLA","Suppressed",5.5208,3347,"Mesic","Old spruce-fir at timberline",-6.45028,"Band_2021",1.99,2021,0.01085346
+"47","MRS11_3","ABLA","Suppressed",5.5208,3347,"Mesic","Old spruce-fir at timberline",-6.45028,"Band_2022",6.47,2022,0.03528738
+"48","MRS11_3","ABLA","Suppressed",5.5208,3347,"Mesic","Old spruce-fir at timberline",-6.45028,"Band_2023",5.9,2023,0.0321786
+"49","MRS11_330","PIEN","Suppressed",4.734031,3347,"Mesic","Old spruce-fir at timberline",-5.12927,"Band_2020",0,2020,0
+"50","MRS11_330","PIEN","Suppressed",4.734031,3347,"Mesic","Old spruce-fir at timberline",-5.12927,"Band_2021",1.24,2021,0.00676296
+"51","MRS11_330","PIEN","Suppressed",4.734031,3347,"Mesic","Old spruce-fir at timberline",-5.12927,"Band_2022",1.4,2022,0.0076356
+"52","MRS11_330","PIEN","Suppressed",4.734031,3347,"Mesic","Old spruce-fir at timberline",-5.12927,"Band_2023",1.59,2023,0.00867186
+"53","MRS11_332","ABLA","Suppressed",5.273846,3347,"Mesic","Old spruce-fir at timberline",-5.343732,"Band_2020",2.54,2020,0.01385316
+"54","MRS11_332","ABLA","Suppressed",5.273846,3347,"Mesic","Old spruce-fir at timberline",-5.343732,"Band_2021",2.65,2021,0.0144531
+"55","MRS11_332","ABLA","Suppressed",5.273846,3347,"Mesic","Old spruce-fir at timberline",-5.343732,"Band_2022",8.1,2022,0.0441774
+"56","MRS11_332","ABLA","Suppressed",5.273846,3347,"Mesic","Old spruce-fir at timberline",-5.343732,"Band_2023",6.74,2023,0.03675996
+"57","MRS11_408","PIEN","Suppressed",2.167452,3347,"Mesic","Old spruce-fir at timberline",-4.21985,"Band_2020",1.83,2020,0.00998082
+"58","MRS11_408","PIEN","Suppressed",2.167452,3347,"Mesic","Old spruce-fir at timberline",-4.21985,"Band_2021",14.97,2021,0.08164638
+"59","MRS11_408","PIEN","Suppressed",2.167452,3347,"Mesic","Old spruce-fir at timberline",-4.21985,"Band_2022",NA,2022,NA
+"60","MRS11_408","PIEN","Suppressed",2.167452,3347,"Mesic","Old spruce-fir at timberline",-4.21985,"Band_2023",13.15,2023,0.0717201
+"61","MRS11_409","PIEN","Suppressed",2.457486,3347,"Mesic","Old spruce-fir at timberline",-4.21985,"Band_2020",1,2020,0.005454
+"62","MRS11_409","PIEN","Suppressed",2.457486,3347,"Mesic","Old spruce-fir at timberline",-4.21985,"Band_2021",1.26,2021,0.00687204
+"63","MRS11_409","PIEN","Suppressed",2.457486,3347,"Mesic","Old spruce-fir at timberline",-4.21985,"Band_2022",0.07,2022,0.00038178
+"64","MRS11_409","PIEN","Suppressed",2.457486,3347,"Mesic","Old spruce-fir at timberline",-4.21985,"Band_2023",3.51,2023,0.01914354
+"65","MRS11_431","ABLA","Suppressed",1.430866,3347,"Mesic","Old spruce-fir at timberline",-4.958863,"Band_2020",3.78,2020,0.02061612
+"66","MRS11_431","ABLA","Suppressed",1.430866,3347,"Mesic","Old spruce-fir at timberline",-4.958863,"Band_2021",2.2,2021,0.0119988
+"67","MRS11_431","ABLA","Suppressed",1.430866,3347,"Mesic","Old spruce-fir at timberline",-4.958863,"Band_2022",2.3,2022,0.0125442
+"68","MRS11_431","ABLA","Suppressed",1.430866,3347,"Mesic","Old spruce-fir at timberline",-4.958863,"Band_2023",1.16,2023,0.00632664
+"69","MRS11_454","PIEN","Suppressed",2.007219,3347,"Mesic","Old spruce-fir at timberline",-3.491112,"Band_2020",0,2020,0
+"70","MRS11_454","PIEN","Suppressed",2.007219,3347,"Mesic","Old spruce-fir at timberline",-3.491112,"Band_2021",0.3,2021,0.0016362
+"71","MRS11_454","PIEN","Suppressed",2.007219,3347,"Mesic","Old spruce-fir at timberline",-3.491112,"Band_2022",2,2022,0.010908
+"72","MRS11_454","PIEN","Suppressed",2.007219,3347,"Mesic","Old spruce-fir at timberline",-3.491112,"Band_2023",1.66,2023,0.00905364
+"73","MRS11_457","ABLA","Suppressed",4.614661,3347,"Mesic","Old spruce-fir at timberline",-2.386006,"Band_2020",1.63,2020,0.00889002
+"74","MRS11_457","ABLA","Suppressed",4.614661,3347,"Mesic","Old spruce-fir at timberline",-2.386006,"Band_2021",1.5,2021,0.008181
+"75","MRS11_457","ABLA","Suppressed",4.614661,3347,"Mesic","Old spruce-fir at timberline",-2.386006,"Band_2022",3.14,2022,0.01712556
+"76","MRS11_457","ABLA","Suppressed",4.614661,3347,"Mesic","Old spruce-fir at timberline",-2.386006,"Band_2023",2.74,2023,0.01494396
+"77","MRS11_487","PIEN","Suppressed",1.88424,3347,"Mesic","Old spruce-fir at timberline",-3.491112,"Band_2020",0,2020,0
+"78","MRS11_487","PIEN","Suppressed",1.88424,3347,"Mesic","Old spruce-fir at timberline",-3.491112,"Band_2021",0,2021,0
+"79","MRS11_487","PIEN","Suppressed",1.88424,3347,"Mesic","Old spruce-fir at timberline",-3.491112,"Band_2022",3.2,2022,0.0174528
+"80","MRS11_487","PIEN","Suppressed",1.88424,3347,"Mesic","Old spruce-fir at timberline",-3.491112,"Band_2023",1.18,2023,0.00643572
+"81","MRS11_492","ABLA","Suppressed",9.640631,3347,"Mesic","Old spruce-fir at timberline",-2.386006,"Band_2020",5.47,2020,0.02983338
+"82","MRS11_492","ABLA","Suppressed",9.640631,3347,"Mesic","Old spruce-fir at timberline",-2.386006,"Band_2021",2.13,2021,0.01161702
+"83","MRS11_492","ABLA","Suppressed",9.640631,3347,"Mesic","Old spruce-fir at timberline",-2.386006,"Band_2022",1.67,2022,0.00910818
+"84","MRS11_492","ABLA","Suppressed",9.640631,3347,"Mesic","Old spruce-fir at timberline",-2.386006,"Band_2023",3.65,2023,0.0199071
+"85","MRS11_496","PIEN","Suppressed",0.8160761,3347,"Mesic","Old spruce-fir at timberline",-2.386006,"Band_2020",0,2020,0
+"86","MRS11_496","PIEN","Suppressed",0.8160761,3347,"Mesic","Old spruce-fir at timberline",-2.386006,"Band_2021",2.88,2021,0.01570752
+"87","MRS11_496","PIEN","Suppressed",0.8160761,3347,"Mesic","Old spruce-fir at timberline",-2.386006,"Band_2022",4.6,2022,0.0250884
+"88","MRS11_496","PIEN","Suppressed",0.8160761,3347,"Mesic","Old spruce-fir at timberline",-2.386006,"Band_2023",19.64,2023,0.10711656
+"89","MRS11_517","PIEN","Suppressed",0.9101069,3347,"Mesic","Old spruce-fir at timberline",-3.491112,"Band_2020",0.7,2020,0.0038178
+"90","MRS11_517","PIEN","Suppressed",0.9101069,3347,"Mesic","Old spruce-fir at timberline",-3.491112,"Band_2021",0.58,2021,0.00316332
+"91","MRS11_517","PIEN","Suppressed",0.9101069,3347,"Mesic","Old spruce-fir at timberline",-3.491112,"Band_2022",2.06,2022,0.01123524
+"92","MRS11_517","PIEN","Suppressed",0.9101069,3347,"Mesic","Old spruce-fir at timberline",-3.491112,"Band_2023",4.34,2023,0.02367036
+"93","MRS11_91","ABLA","Suppressed",2.565815,3347,"Mesic","Old spruce-fir at timberline",-5.378009,"Band_2020",4.43,2020,0.02416122
+"94","MRS11_91","ABLA","Suppressed",2.565815,3347,"Mesic","Old spruce-fir at timberline",-5.378009,"Band_2021",1.25,2021,0.0068175
+"95","MRS11_91","ABLA","Suppressed",2.565815,3347,"Mesic","Old spruce-fir at timberline",-5.378009,"Band_2022",6.12,2022,0.03337848
+"96","MRS11_91","ABLA","Suppressed",2.565815,3347,"Mesic","Old spruce-fir at timberline",-5.378009,"Band_2023",4.27,2023,0.02328858
+"97","MRS4_116","ABLA","Suppressed",6.45156669752501,3170,"Mesic","Old seral post-fire spruce-fir-pine",-2.8758339881897,"Band_2020",2.61,2020,0.01423494
+"98","MRS4_116","ABLA","Suppressed",6.45156669752501,3170,"Mesic","Old seral post-fire spruce-fir-pine",-2.8758339881897,"Band_2021",2.11,2021,0.01150794
+"99","MRS4_116","ABLA","Suppressed",6.45156669752501,3170,"Mesic","Old seral post-fire spruce-fir-pine",-2.8758339881897,"Band_2022",3.86,2022,0.02105244
+"100","MRS4_116","ABLA","Suppressed",6.45156669752501,3170,"Mesic","Old seral post-fire spruce-fir-pine",-2.8758339881897,"Band_2023",5.41,2023,0.02950614
+"101","MRS4_13","PIEN","Suppressed",3.94019011317262,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25229287147522,"Band_2020",0,2020,0
+"102","MRS4_13","PIEN","Suppressed",3.94019011317262,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25229287147522,"Band_2021",0,2021,0
+"103","MRS4_13","PIEN","Suppressed",3.94019011317262,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25229287147522,"Band_2022",0,2022,0
+"104","MRS4_13","PIEN","Suppressed",3.94019011317262,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25229287147522,"Band_2023",0,2023,0
+"105","MRS4_140","ABLA","Suppressed",13.144354046796,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.24659252166748,"Band_2020",2.21,2020,0.01205334
+"106","MRS4_140","ABLA","Suppressed",13.144354046796,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.24659252166748,"Band_2021",1.31,2021,0.00714474
+"107","MRS4_140","ABLA","Suppressed",13.144354046796,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.24659252166748,"Band_2022",2,2022,0.010908
+"108","MRS4_140","ABLA","Suppressed",13.144354046796,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.24659252166748,"Band_2023",3.25,2023,0.0177255
+"109","MRS4_165","PICO","Suppressed",6.34737046475812,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.26709890365601,"Band_2020",1.17,2020,0.00638118
+"110","MRS4_165","PICO","Suppressed",6.34737046475812,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.26709890365601,"Band_2021",0.46,2021,0.00250884
+"111","MRS4_165","PICO","Suppressed",6.34737046475812,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.26709890365601,"Band_2022",4.1,2022,0.0223614
+"112","MRS4_165","PICO","Suppressed",6.34737046475812,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.26709890365601,"Band_2023",3.02,2023,0.01647108
+"113","MRS4_170","PICO","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.00492382049561,"Band_2020",0,2020,0
+"114","MRS4_170","PICO","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.00492382049561,"Band_2021",2.87,2021,0.01565298
+"115","MRS4_170","PICO","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.00492382049561,"Band_2022",2.25,2022,0.0122715
+"116","MRS4_170","PICO","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.00492382049561,"Band_2023",3.05,2023,0.0166347
+"117","MRS4_257","PIEN","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.41159749031067,"Band_2020",0,2020,0
+"118","MRS4_257","PIEN","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.41159749031067,"Band_2021",0.36,2021,0.00196344
+"119","MRS4_257","PIEN","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.41159749031067,"Band_2022",1,2022,0.005454
+"120","MRS4_257","PIEN","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.41159749031067,"Band_2023",0,2023,0
+"121","MRS4_286","ABLA","Suppressed",7.84605905221585,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.41159749031067,"Band_2020",2.23,2020,0.01216242
+"122","MRS4_286","ABLA","Suppressed",7.84605905221585,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.41159749031067,"Band_2021",3.42,2021,0.01865268
+"123","MRS4_286","ABLA","Suppressed",7.84605905221585,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.41159749031067,"Band_2022",2.86,2022,0.01559844
+"124","MRS4_286","ABLA","Suppressed",7.84605905221585,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.41159749031067,"Band_2023",3.92,2023,0.02137968
+"125","MRS4_287","ABLA","Suppressed",7.09544408368575,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25131773948669,"Band_2020",0,2020,0
+"126","MRS4_287","ABLA","Suppressed",7.09544408368575,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25131773948669,"Band_2021",2.01,2021,0.01096254
+"127","MRS4_287","ABLA","Suppressed",7.09544408368575,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25131773948669,"Band_2022",4.44,2022,0.02421576
+"128","MRS4_287","ABLA","Suppressed",7.09544408368575,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25131773948669,"Band_2023",2.28,2023,0.01243512
+"129","MRS4_313","PIEN","Suppressed",5.291164306522,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.00133347511292,"Band_2020",0,2020,0
+"130","MRS4_313","PIEN","Suppressed",5.291164306522,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.00133347511292,"Band_2021",0,2021,0
+"131","MRS4_313","PIEN","Suppressed",5.291164306522,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.00133347511292,"Band_2022",3.8,2022,0.0207252
+"132","MRS4_313","PIEN","Suppressed",5.291164306522,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.00133347511292,"Band_2023",1,2023,0.005454
+"133","MRS4_335","PICO","Suppressed",4.01702836294021,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.11984848976135,"Band_2020",0,2020,0
+"134","MRS4_335","PICO","Suppressed",4.01702836294021,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.11984848976135,"Band_2021",0.91,2021,0.00496314
+"135","MRS4_335","PICO","Suppressed",4.01702836294021,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.11984848976135,"Band_2022",0,2022,0
+"136","MRS4_335","PICO","Suppressed",4.01702836294021,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.11984848976135,"Band_2023",0,2023,0
+"137","MRS4_36","PICO","Suppressed",4.74943416489354,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.09925055503845,"Band_2020",0,2020,0
+"138","MRS4_36","PICO","Suppressed",4.74943416489354,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.09925055503845,"Band_2021",0.94,2021,0.00512676
+"139","MRS4_36","PICO","Suppressed",4.74943416489354,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.09925055503845,"Band_2022",2,2022,0.010908
+"140","MRS4_36","PICO","Suppressed",4.74943416489354,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.09925055503845,"Band_2023",1.46,2023,0.00796284
+"141","MRS4_362","PIEN","Suppressed",6.26243323210056,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.00133347511292,"Band_2020",0,2020,0
+"142","MRS4_362","PIEN","Suppressed",6.26243323210056,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.00133347511292,"Band_2021",0,2021,0
+"143","MRS4_362","PIEN","Suppressed",6.26243323210056,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.00133347511292,"Band_2022",0.5,2022,0.002727
+"144","MRS4_362","PIEN","Suppressed",6.26243323210056,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.00133347511292,"Band_2023",0.6,2023,0.0032724
+"145","MRS4_420","PICO","Suppressed",4.75994745420417,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25131773948669,"Band_2020",1.47,2020,0.00801738
+"146","MRS4_420","PICO","Suppressed",4.75994745420417,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25131773948669,"Band_2021",0,2021,0
+"147","MRS4_420","PICO","Suppressed",4.75994745420417,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25131773948669,"Band_2022",0.5,2022,0.002727
+"148","MRS4_420","PICO","Suppressed",4.75994745420417,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25131773948669,"Band_2023",0.9,2023,0.0049086
+"149","MRS4_421","ABLA","Suppressed",7.54035536787926,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.34366226196289,"Band_2020",0.94,2020,0.00512676
+"150","MRS4_421","ABLA","Suppressed",7.54035536787926,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.34366226196289,"Band_2021",3.35,2021,0.0182709
+"151","MRS4_421","ABLA","Suppressed",7.54035536787926,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.34366226196289,"Band_2022",3.1,2022,0.0169074
+"152","MRS4_421","ABLA","Suppressed",7.54035536787926,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.34366226196289,"Band_2023",2.37,2023,0.01292598
+"153","MRS4_448","PIEN","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.23638677597046,"Band_2020",0,2020,0
+"154","MRS4_448","PIEN","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.23638677597046,"Band_2021",1.08,2021,0.00589032
+"155","MRS4_448","PIEN","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.23638677597046,"Band_2022",0.5,2022,0.002727
+"156","MRS4_448","PIEN","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.23638677597046,"Band_2023",0.52,2023,0.00283608
+"157","MRS4_45","PIEN","Suppressed",3.67459178478735,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.41013169288635,"Band_2020",2.25,2020,0.0122715
+"158","MRS4_45","PIEN","Suppressed",3.67459178478735,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.41013169288635,"Band_2021",1.68,2021,0.00916272
+"159","MRS4_45","PIEN","Suppressed",3.67459178478735,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.41013169288635,"Band_2022",3.33,2022,0.01816182
+"160","MRS4_45","PIEN","Suppressed",3.67459178478735,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.41013169288635,"Band_2023",2.97,2023,0.01619838
+"161","MRS4_451","ABLA","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.23638677597046,"Band_2020",2.18,2020,0.01188972
+"162","MRS4_451","ABLA","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.23638677597046,"Band_2021",1.21,2021,0.00659934
+"163","MRS4_451","ABLA","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.23638677597046,"Band_2022",2.6,2022,0.0141804
+"164","MRS4_451","ABLA","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.23638677597046,"Band_2023",1.41,2023,0.00769014
+"165","MRS4_453","PICO","Suppressed",4.64062062163328,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.23638677597046,"Band_2020",0,2020,0
+"166","MRS4_453","PICO","Suppressed",4.64062062163328,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.23638677597046,"Band_2021",0,2021,0
+"167","MRS4_453","PICO","Suppressed",4.64062062163328,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.23638677597046,"Band_2022",0,2022,0
+"168","MRS4_453","PICO","Suppressed",4.64062062163328,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.23638677597046,"Band_2023",0,2023,0
+"169","MRS4_46","PIEN","Suppressed",3.92492730888755,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.41013169288635,"Band_2020",0,2020,0
+"170","MRS4_46","PIEN","Suppressed",3.92492730888755,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.41013169288635,"Band_2021",0,2021,0
+"171","MRS4_46","PIEN","Suppressed",3.92492730888755,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.41013169288635,"Band_2022",1.29,2022,0.00703566
+"172","MRS4_46","PIEN","Suppressed",3.92492730888755,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.41013169288635,"Band_2023",1.6,2023,0.0087264
+"173","MRS4_493","ABLA","Co-Dominant",6.07926225919693,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.34031796455383,"Band_2020",1.61,2020,0.00878094
+"174","MRS4_493","ABLA","Co-Dominant",6.07926225919693,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.34031796455383,"Band_2021",1.66,2021,0.00905364
+"175","MRS4_493","ABLA","Co-Dominant",6.07926225919693,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.34031796455383,"Band_2022",3.2,2022,0.0174528
+"176","MRS4_493","ABLA","Co-Dominant",6.07926225919693,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.34031796455383,"Band_2023",2.15,2023,0.0117261
+"177","MRS4_50","PICO","Suppressed",7.56439840292414,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.49433016777039,"Band_2020",0,2020,0
+"178","MRS4_50","PICO","Suppressed",7.56439840292414,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.49433016777039,"Band_2021",3.73,2021,0.02034342
+"179","MRS4_50","PICO","Suppressed",7.56439840292414,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.49433016777039,"Band_2022",2.82,2022,0.01538028
+"180","MRS4_50","PICO","Suppressed",7.56439840292414,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.49433016777039,"Band_2023",0,2023,0
+"181","MRS4_572","PICO","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.71241855621338,"Band_2020",2.4,2020,0.0130896
+"182","MRS4_572","PICO","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.71241855621338,"Band_2021",1.04,2021,0.00567216
+"183","MRS4_572","PICO","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.71241855621338,"Band_2022",2.9,2022,0.0158166
+"184","MRS4_572","PICO","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.71241855621338,"Band_2023",3.9,2023,0.0212706
+"185","MRS4_582","ABLA","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.71241855621338,"Band_2020",1.14,2020,0.00621756
+"186","MRS4_582","ABLA","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.71241855621338,"Band_2021",2.49,2021,0.01358046
+"187","MRS4_582","ABLA","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.71241855621338,"Band_2022",4.6,2022,0.0250884
+"188","MRS4_582","ABLA","Suppressed",NA,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.71241855621338,"Band_2023",3.48,2023,0.01897992
+"189","MRS4_590","PIEN","Suppressed",5.60704611649087,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.76556086540222,"Band_2020",2.07,2020,0.01128978
+"190","MRS4_590","PIEN","Suppressed",5.60704611649087,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.76556086540222,"Band_2021",1.43,2021,0.00779922
+"191","MRS4_590","PIEN","Suppressed",5.60704611649087,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.76556086540222,"Band_2022",4.5,2022,0.024543
+"192","MRS4_590","PIEN","Suppressed",5.60704611649087,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.76556086540222,"Band_2023",3,2023,0.016362
+"193","MRS4_592","PICO","Suppressed",2.93235754059417,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.76556086540222,"Band_2020",0,2020,0
+"194","MRS4_592","PICO","Suppressed",2.93235754059417,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.76556086540222,"Band_2021",0,2021,0
+"195","MRS4_592","PICO","Suppressed",2.93235754059417,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.76556086540222,"Band_2022",1.55,2022,0.0084537
+"196","MRS4_592","PICO","Suppressed",2.93235754059417,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.76556086540222,"Band_2023",1.77,2023,0.00965358
+"197","MRS4_597","ABLA","Suppressed",4.29628712933776,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.79999208450317,"Band_2020",0,2020,0
+"198","MRS4_597","ABLA","Suppressed",4.29628712933776,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.79999208450317,"Band_2021",1.16,2021,0.00632664
+"199","MRS4_597","ABLA","Suppressed",4.29628712933776,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.79999208450317,"Band_2022",1.35,2022,0.0073629
+"200","MRS4_597","ABLA","Suppressed",4.29628712933776,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.79999208450317,"Band_2023",1.5,2023,0.008181
+"201","MRS4_625","PIEN","Suppressed",9.8028859104608,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.71241855621338,"Band_2020",2.81,2020,0.01532574
+"202","MRS4_625","PIEN","Suppressed",9.8028859104608,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.71241855621338,"Band_2021",2.43,2021,0.01325322
+"203","MRS4_625","PIEN","Suppressed",9.8028859104608,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.71241855621338,"Band_2022",2.6,2022,0.0141804
+"204","MRS4_625","PIEN","Suppressed",9.8028859104608,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.71241855621338,"Band_2023",2.62,2023,0.01428948
+"205","MRS4_64","ABLA","Suppressed",6.501595342855,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.11817383766174,"Band_2020",1.62,2020,0.00883548
+"206","MRS4_64","ABLA","Suppressed",6.501595342855,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.11817383766174,"Band_2021",1.68,2021,0.00916272
+"207","MRS4_64","ABLA","Suppressed",6.501595342855,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.11817383766174,"Band_2022",2.88,2022,0.01570752
+"208","MRS4_64","ABLA","Suppressed",6.501595342855,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.11817383766174,"Band_2023",2.67,2023,0.01456218
+"209","MRS4_66","PICO","Suppressed",6.08756247860567,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.09925055503845,"Band_2020",2.3,2020,0.0125442
+"210","MRS4_66","PICO","Suppressed",6.08756247860567,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.09925055503845,"Band_2021",1.71,2021,0.00932634
+"211","MRS4_66","PICO","Suppressed",6.08756247860567,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.09925055503845,"Band_2022",2.42,2022,0.01319868
+"212","MRS4_66","PICO","Suppressed",6.08756247860567,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.09925055503845,"Band_2023",4.87,2023,0.02656098
+"213","MRS4_72","PIEN","Suppressed",5.41132987395105,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25229287147522,"Band_2020",0,2020,0
+"214","MRS4_72","PIEN","Suppressed",5.41132987395105,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25229287147522,"Band_2021",2.54,2021,0.01385316
+"215","MRS4_72","PIEN","Suppressed",5.41132987395105,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25229287147522,"Band_2022",2.7,2022,0.0147258
+"216","MRS4_72","PIEN","Suppressed",5.41132987395105,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25229287147522,"Band_2023",1.73,2023,0.00943542
+"217","MRS4_73","ABLA","Suppressed",4.67497974169003,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25229287147522,"Band_2020",0,2020,0
+"218","MRS4_73","ABLA","Suppressed",4.67497974169003,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25229287147522,"Band_2021",2.84,2021,0.01548936
+"219","MRS4_73","ABLA","Suppressed",4.67497974169003,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25229287147522,"Band_2022",3.5,2022,0.019089
+"220","MRS4_73","ABLA","Suppressed",4.67497974169003,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.25229287147522,"Band_2023",3.72,2023,0.02028888
+"221","MRS4_83","PICO","Suppressed",6.09217456342423,3170,"Mesic","Old seral post-fire spruce-fir-pine",-2.8758339881897,"Band_2020",0,2020,0
+"222","MRS4_83","PICO","Suppressed",6.09217456342423,3170,"Mesic","Old seral post-fire spruce-fir-pine",-2.8758339881897,"Band_2021",1.82,2021,0.00992628
+"223","MRS4_83","PICO","Suppressed",6.09217456342423,3170,"Mesic","Old seral post-fire spruce-fir-pine",-2.8758339881897,"Band_2022",1.25,2022,0.0068175
+"224","MRS4_83","PICO","Suppressed",6.09217456342423,3170,"Mesic","Old seral post-fire spruce-fir-pine",-2.8758339881897,"Band_2023",1.78,2023,0.00970812
+"225","MRS4_87","ABLA","Suppressed",5.24321815960015,3170,"Mesic","Old seral post-fire spruce-fir-pine",-2.8758339881897,"Band_2020",0.78,2020,0.00425412
+"226","MRS4_87","ABLA","Suppressed",5.24321815960015,3170,"Mesic","Old seral post-fire spruce-fir-pine",-2.8758339881897,"Band_2021",2.34,2021,0.01276236
+"227","MRS4_87","ABLA","Suppressed",5.24321815960015,3170,"Mesic","Old seral post-fire spruce-fir-pine",-2.8758339881897,"Band_2022",2.8,2022,0.0152712
+"228","MRS4_87","ABLA","Suppressed",5.24321815960015,3170,"Mesic","Old seral post-fire spruce-fir-pine",-2.8758339881897,"Band_2023",1.2,2023,0.0065448
+"229","MRS4_90","PIEN","Suppressed",8.15001105383733,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.00492382049561,"Band_2020",0,2020,0
+"230","MRS4_90","PIEN","Suppressed",8.15001105383733,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.00492382049561,"Band_2021",0.36,2021,0.00196344
+"231","MRS4_90","PIEN","Suppressed",8.15001105383733,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.00492382049561,"Band_2022",1.94,2022,0.01058076
+"232","MRS4_90","PIEN","Suppressed",8.15001105383733,3170,"Mesic","Old seral post-fire spruce-fir-pine",-3.00492382049561,"Band_2023",2.47,2023,0.01347138
+"233","MRS5_346","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.18401336669922,"Band_2020",4.98,2020,0.02716092
+"234","MRS5_346","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.18401336669922,"Band_2021",2.14,2021,0.01167156
+"235","MRS5_346","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.18401336669922,"Band_2022",5.57,2022,0.03037878
+"236","MRS5_346","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.18401336669922,"Band_2023",8.27,2023,0.04510458
+"237","MRS5_350","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.18401336669922,"Band_2020",5.75,2020,0.0313605
+"238","MRS5_350","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.18401336669922,"Band_2021",7.39,2021,0.04030506
+"239","MRS5_350","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.18401336669922,"Band_2022",7.81,2022,0.04259574
+"240","MRS5_350","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.18401336669922,"Band_2023",6.93,2023,0.03779622
+"241","MRS5_357","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.18401336669922,"Band_2020",5.13,2020,0.02797902
+"242","MRS5_357","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.18401336669922,"Band_2021",4.51,2021,0.02459754
+"243","MRS5_357","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.18401336669922,"Band_2022",5.62,2022,0.03065148
+"244","MRS5_357","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.18401336669922,"Band_2023",5.99,2023,0.03266946
+"245","MRS5_382","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2020",4.08,2020,0.02225232
+"246","MRS5_382","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2021",4.64,2021,0.02530656
+"247","MRS5_382","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2022",5.88,2022,0.03206952
+"248","MRS5_382","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2023",6.22,2023,0.03392388
+"249","MRS5_409","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2020",0,2020,0
+"250","MRS5_409","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2021",1.34,2021,0.00730836
+"251","MRS5_409","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2022",2.32,2022,0.01265328
+"252","MRS5_409","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2023",2.79,2023,0.01521666
+"253","MRS5_418","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.39967226982117,"Band_2020",0,2020,0
+"254","MRS5_418","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.39967226982117,"Band_2021",2.89,2021,0.01576206
+"255","MRS5_418","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.39967226982117,"Band_2022",4.63,2022,0.02525202
+"256","MRS5_418","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.39967226982117,"Band_2023",5.83,2023,0.03179682
+"257","MRS5_421","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.39967226982117,"Band_2020",9.69,2020,0.05284926
+"258","MRS5_421","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.39967226982117,"Band_2021",8.59,2021,0.04684986
+"259","MRS5_421","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.39967226982117,"Band_2022",9.81,2022,0.05350374
+"260","MRS5_421","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.39967226982117,"Band_2023",9.09,2023,0.04957686
+"261","MRS5_444","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.92295491695404,"Band_2020",0,2020,0
+"262","MRS5_444","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.92295491695404,"Band_2021",0.34,2021,0.00185436
+"263","MRS5_444","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.92295491695404,"Band_2022",2.95,2022,0.0160893
+"264","MRS5_444","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.92295491695404,"Band_2023",1.87,2023,0.01019898
+"265","MRS5_448","ABLA","Co-Dominant",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2020",4.25,2020,0.0231795
+"266","MRS5_448","ABLA","Co-Dominant",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2021",0.9,2021,0.0049086
+"267","MRS5_448","ABLA","Co-Dominant",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2022",0.98,2022,0.00534492
+"268","MRS5_448","ABLA","Co-Dominant",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2023",4.12,2023,0.02247048
+"269","MRS5_449","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2020",0.93,2020,0.00507222
+"270","MRS5_449","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2021",1.39,2021,0.00758106
+"271","MRS5_449","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2022",3.93,2022,0.02143422
+"272","MRS5_449","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2023",7.2,2023,0.0392688
+"273","MRS5_454","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2020",0,2020,0
+"274","MRS5_454","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2021",1.68,2021,0.00916272
+"275","MRS5_454","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2022",3.27,2022,0.01783458
+"276","MRS5_454","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.98005330562592,"Band_2023",2.16,2023,0.01178064
+"277","MRS5_492","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.96990060806274,"Band_2020",0,2020,0
+"278","MRS5_492","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.96990060806274,"Band_2021",2.93,2021,0.01598022
+"279","MRS5_492","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.96990060806274,"Band_2022",3.85,2022,0.0209979
+"280","MRS5_492","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.96990060806274,"Band_2023",3.81,2023,0.02077974
+"281","MRS5_493","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.51895463466644,"Band_2020",NA,2020,NA
+"282","MRS5_493","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.51895463466644,"Band_2021",NA,2021,NA
+"283","MRS5_493","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.51895463466644,"Band_2022",NA,2022,NA
+"284","MRS5_493","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.51895463466644,"Band_2023",NA,2023,NA
+"285","MRS5_505","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.48537015914917,"Band_2020",0,2020,0
+"286","MRS5_505","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.48537015914917,"Band_2021",0,2021,0
+"287","MRS5_505","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.48537015914917,"Band_2022",1.3,2022,0.0070902
+"288","MRS5_505","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.48537015914917,"Band_2023",1.48,2023,0.00807192
+"289","MRS5_509","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.78679275512695,"Band_2020",1,2020,0.005454
+"290","MRS5_509","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.78679275512695,"Band_2021",1.08,2021,0.00589032
+"291","MRS5_509","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.78679275512695,"Band_2022",2.65,2022,0.0144531
+"292","MRS5_509","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.78679275512695,"Band_2023",5.04,2023,0.02748816
+"293","MRS5_510","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.78679275512695,"Band_2020",4.63,2020,0.02525202
+"294","MRS5_510","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.78679275512695,"Band_2021",2.7,2021,0.0147258
+"295","MRS5_510","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.78679275512695,"Band_2022",3.85,2022,0.0209979
+"296","MRS5_510","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.78679275512695,"Band_2023",4.24,2023,0.02312496
+"297","MRS5_512","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.78679275512695,"Band_2020",0,2020,0
+"298","MRS5_512","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.78679275512695,"Band_2021",0,2021,0
+"299","MRS5_512","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.78679275512695,"Band_2022",0,2022,0
+"300","MRS5_512","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-1.78679275512695,"Band_2023",1.06,2023,0.00578124
+"301","MRS5_597","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-2.45595073699951,"Band_2020",0,2020,0
+"302","MRS5_597","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-2.45595073699951,"Band_2021",0.51,2021,0.00278154
+"303","MRS5_597","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-2.45595073699951,"Band_2022",2.1,2022,0.0114534
+"304","MRS5_597","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-2.45595073699951,"Band_2023",2.17,2023,0.01183518
+"305","MRS5_607","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.38852262496948,"Band_2020",1.1,2020,0.0059994
+"306","MRS5_607","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.38852262496948,"Band_2021",3.94,2021,0.02148876
+"307","MRS5_607","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.38852262496948,"Band_2022",4.15,2022,0.0226341
+"308","MRS5_607","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.38852262496948,"Band_2023",3.77,2023,0.02056158
+"309","MRS5_620","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-2.21971321105957,"Band_2020",2.42,2020,0.01319868
+"310","MRS5_620","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-2.21971321105957,"Band_2021",0,2021,0
+"311","MRS5_620","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-2.21971321105957,"Band_2022",3.7,2022,0.0201798
+"312","MRS5_620","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-2.21971321105957,"Band_2023",1.03,2023,0.00561762
+"313","MRS5_755","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.05833864212036,"Band_2020",8.23,2020,0.04488642
+"314","MRS5_755","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.05833864212036,"Band_2021",8.52,2021,0.04646808
+"315","MRS5_755","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.05833864212036,"Band_2022",10.45,2022,0.0569943
+"316","MRS5_755","ABLA","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-4.05833864212036,"Band_2023",9.68,2023,0.05279472
+"317","MRS5_762","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-3.4980137348175,"Band_2020",0,2020,0
+"318","MRS5_762","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-3.4980137348175,"Band_2021",0,2021,0
+"319","MRS5_762","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-3.4980137348175,"Band_2022",1.2,2022,0.0065448
+"320","MRS5_762","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-3.4980137348175,"Band_2023",2.02,2023,0.01101708
+"321","MRS5_769","ABLA","Co-Dominant",NA,3280,"Hydric","Old Spruce-fir",-3.4980137348175,"Band_2020",4.5,2020,0.024543
+"322","MRS5_769","ABLA","Co-Dominant",NA,3280,"Hydric","Old Spruce-fir",-3.4980137348175,"Band_2021",5.22,2021,0.02846988
+"323","MRS5_769","ABLA","Co-Dominant",NA,3280,"Hydric","Old Spruce-fir",-3.4980137348175,"Band_2022",6.59,2022,0.03594186
+"324","MRS5_769","ABLA","Co-Dominant",NA,3280,"Hydric","Old Spruce-fir",-3.4980137348175,"Band_2023",6.35,2023,0.0346329
+"325","MRS5_816","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-3.97763442993164,"Band_2020",0,2020,0
+"326","MRS5_816","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-3.97763442993164,"Band_2021",1.61,2021,0.00878094
+"327","MRS5_816","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-3.97763442993164,"Band_2022",2.95,2022,0.0160893
+"328","MRS5_816","PIEN","Suppressed",NA,3280,"Hydric","Old Spruce-fir",-3.97763442993164,"Band_2023",3.51,2023,0.01914354
+"329","MRS7_109","ABLA","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.779582,"Band_2020",0,2020,0
+"330","MRS7_109","ABLA","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.779582,"Band_2021",1.54,2021,0.00839916
+"331","MRS7_109","ABLA","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.779582,"Band_2022",2.35,2022,0.0128169
+"332","MRS7_109","ABLA","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.779582,"Band_2023",2,2023,0.010908
+"333","MRS7_1101","ABLA","Suppressed",4.176145,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-7.068632,"Band_2020",0.45,2020,0.0024543
+"334","MRS7_1101","ABLA","Suppressed",4.176145,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-7.068632,"Band_2021",1.34,2021,0.00730836
+"335","MRS7_1101","ABLA","Suppressed",4.176145,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-7.068632,"Band_2022",3.76,2022,0.02050704
+"336","MRS7_1101","ABLA","Suppressed",4.176145,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-7.068632,"Band_2023",3.21,2023,0.01750734
+"337","MRS7_1152","ABLA","Suppressed",4.278715,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-7.213333,"Band_2020",1.11,2020,0.00605394
+"338","MRS7_1152","ABLA","Suppressed",4.278715,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-7.213333,"Band_2021",2.77,2021,0.01510758
+"339","MRS7_1152","ABLA","Suppressed",4.278715,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-7.213333,"Band_2022",2.78,2022,0.01516212
+"340","MRS7_1152","ABLA","Suppressed",4.278715,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-7.213333,"Band_2023",2.27,2023,0.01238058
+"341","MRS7_1172","PIFL","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.950947,"Band_2020",0,2020,0
+"342","MRS7_1172","PIFL","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.950947,"Band_2021",1.05,2021,0.0057267
+"343","MRS7_1172","PIFL","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.950947,"Band_2022",0.25,2022,0.0013635
+"344","MRS7_1172","PIFL","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.950947,"Band_2023",0,2023,0
+"345","MRS7_1189","ABLA","Suppressed",4.680572,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-6.096906,"Band_2020",0,2020,0
+"346","MRS7_1189","ABLA","Suppressed",4.680572,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-6.096906,"Band_2021",NA,2021,NA
+"347","MRS7_1189","ABLA","Suppressed",4.680572,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-6.096906,"Band_2022",NA,2022,NA
+"348","MRS7_1189","ABLA","Suppressed",4.680572,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-6.096906,"Band_2023",1.38,2023,0.00752652
+"349","MRS7_119","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.631993,"Band_2020",1.21,2020,0.00659934
+"350","MRS7_119","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.631993,"Band_2021",0.62,2021,0.00338148
+"351","MRS7_119","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.631993,"Band_2022",1.24,2022,0.00676296
+"352","MRS7_119","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.631993,"Band_2023",2.05,2023,0.0111807
+"353","MRS7_121","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.631993,"Band_2020",0,2020,0
+"354","MRS7_121","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.631993,"Band_2021",1.3,2021,0.0070902
+"355","MRS7_121","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.631993,"Band_2022",1.88,2022,0.01025352
+"356","MRS7_121","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.631993,"Band_2023",2.23,2023,0.01216242
+"357","MRS7_1211","PIFL","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-6.776686,"Band_2020",0,2020,0
+"358","MRS7_1211","PIFL","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-6.776686,"Band_2021",0,2021,0
+"359","MRS7_1211","PIFL","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-6.776686,"Band_2022",0,2022,0
+"360","MRS7_1211","PIFL","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-6.776686,"Band_2023",1.94,2023,0.01058076
+"361","MRS7_129","ABLA","Suppressed",3.191323,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.538527,"Band_2020",1.88,2020,0.01025352
+"362","MRS7_129","ABLA","Suppressed",3.191323,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.538527,"Band_2021",2.61,2021,0.01423494
+"363","MRS7_129","ABLA","Suppressed",3.191323,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.538527,"Band_2022",3.7,2022,0.0201798
+"364","MRS7_129","ABLA","Suppressed",3.191323,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.538527,"Band_2023",3.23,2023,0.01761642
+"365","MRS7_138","ABLA","Suppressed",7.410403,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-6.437697,"Band_2020",0,2020,0
+"366","MRS7_138","ABLA","Suppressed",7.410403,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-6.437697,"Band_2021",1.03,2021,0.00561762
+"367","MRS7_138","ABLA","Suppressed",7.410403,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-6.437697,"Band_2022",0,2022,0
+"368","MRS7_138","ABLA","Suppressed",7.410403,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-6.437697,"Band_2023",1.8,2023,0.0098172
+"369","MRS7_162","ABLA","Suppressed",3.504923,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.538527,"Band_2020",0.99,2020,0.00539946
+"370","MRS7_162","ABLA","Suppressed",3.504923,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.538527,"Band_2021",0,2021,0
+"371","MRS7_162","ABLA","Suppressed",3.504923,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.538527,"Band_2022",0,2022,0
+"372","MRS7_162","ABLA","Suppressed",3.504923,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.538527,"Band_2023",0,2023,0
+"373","MRS7_164","PIFL","Suppressed",2.72372,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.371211,"Band_2020",0,2020,0
+"374","MRS7_164","PIFL","Suppressed",2.72372,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.371211,"Band_2021",1.47,2021,0.00801738
+"375","MRS7_164","PIFL","Suppressed",2.72372,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.371211,"Band_2022",0,2022,0
+"376","MRS7_164","PIFL","Suppressed",2.72372,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.371211,"Band_2023",2.75,2023,0.0149985
+"377","MRS7_168","PIEN","Suppressed",4.91879,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-6.437697,"Band_2020",0,2020,0
+"378","MRS7_168","PIEN","Suppressed",4.91879,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-6.437697,"Band_2021",0,2021,0
+"379","MRS7_168","PIEN","Suppressed",4.91879,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-6.437697,"Band_2022",1.2,2022,0.0065448
+"380","MRS7_168","PIEN","Suppressed",4.91879,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-6.437697,"Band_2023",2.29,2023,0.01248966
+"381","MRS7_20","PIEN","Suppressed",2.23678075153847,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.22007322311401,"Band_2020",0.6,2020,0.0032724
+"382","MRS7_20","PIEN","Suppressed",2.23678075153847,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.22007322311401,"Band_2021",0.37,2021,0.00201798
+"383","MRS7_20","PIEN","Suppressed",2.23678075153847,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.22007322311401,"Band_2022",2.46,2022,0.01341684
+"384","MRS7_20","PIEN","Suppressed",2.23678075153847,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.22007322311401,"Band_2023",2.43,2023,0.01325322
+"385","MRS7_242","PIEN","Suppressed",1.063728,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.229835,"Band_2020",0.53,2020,0.00289062
+"386","MRS7_242","PIEN","Suppressed",1.063728,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.229835,"Band_2021",2.65,2021,0.0144531
+"387","MRS7_242","PIEN","Suppressed",1.063728,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.229835,"Band_2022",3.95,2022,0.0215433
+"388","MRS7_242","PIEN","Suppressed",1.063728,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.229835,"Band_2023",2.46,2023,0.01341684
+"389","MRS7_243","ABLA","Suppressed",2.459761,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.229835,"Band_2020",5.43,2020,0.02961522
+"390","MRS7_243","ABLA","Suppressed",2.459761,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.229835,"Band_2021",1.98,2021,0.01079892
+"391","MRS7_243","ABLA","Suppressed",2.459761,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.229835,"Band_2022",5,2022,0.02727
+"392","MRS7_243","ABLA","Suppressed",2.459761,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.229835,"Band_2023",5.76,2023,0.03141504
+"393","MRS7_255","PIEN","Suppressed",1.865891,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.828316,"Band_2020",1.91,2020,0.01041714
+"394","MRS7_255","PIEN","Suppressed",1.865891,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.828316,"Band_2021",1.19,2021,0.00649026
+"395","MRS7_255","PIEN","Suppressed",1.865891,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.828316,"Band_2022",4.05,2022,0.0220887
+"396","MRS7_255","PIEN","Suppressed",1.865891,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.828316,"Band_2023",3.84,2023,0.02094336
+"397","MRS7_259","PIFL","Suppressed",4.561329,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.326137,"Band_2020",0,2020,0
+"398","MRS7_259","PIFL","Suppressed",4.561329,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.326137,"Band_2021",0.26,2021,0.00141804
+"399","MRS7_259","PIFL","Suppressed",4.561329,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.326137,"Band_2022",3,2022,0.016362
+"400","MRS7_259","PIFL","Suppressed",4.561329,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.326137,"Band_2023",2.2,2023,0.0119988
+"401","MRS7_262","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.520515,"Band_2020",0,2020,0
+"402","MRS7_262","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.520515,"Band_2021",0.82,2021,0.00447228
+"403","MRS7_262","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.520515,"Band_2022",2.2,2022,0.0119988
+"404","MRS7_262","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-5.520515,"Band_2023",2.11,2023,0.01150794
+"405","MRS7_273","PIFL","Suppressed",4.341721,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.948275,"Band_2020",2.91,2020,0.01587114
+"406","MRS7_273","PIFL","Suppressed",4.341721,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.948275,"Band_2021",0,2021,0
+"407","MRS7_273","PIFL","Suppressed",4.341721,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.948275,"Band_2022",0.25,2022,0.0013635
+"408","MRS7_273","PIFL","Suppressed",4.341721,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.948275,"Band_2023",0.77,2023,0.00419958
+"409","MRS7_285","ABLA","Suppressed",3.195924,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.317633,"Band_2020",0,2020,0
+"410","MRS7_285","ABLA","Suppressed",3.195924,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.317633,"Band_2021",2.2,2021,0.0119988
+"411","MRS7_285","ABLA","Suppressed",3.195924,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.317633,"Band_2022",1.8,2022,0.0098172
+"412","MRS7_285","ABLA","Suppressed",3.195924,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.317633,"Band_2023",2,2023,0.010908
+"413","MRS7_293","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.286394,"Band_2020",0,2020,0
+"414","MRS7_293","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.286394,"Band_2021",0.78,2021,0.00425412
+"415","MRS7_293","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.286394,"Band_2022",3.4,2022,0.0185436
+"416","MRS7_293","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.286394,"Band_2023",18.66,2023,0.10177164
+"417","MRS7_321","PIEN","Suppressed",2.519273,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.659657,"Band_2020",0,2020,0
+"418","MRS7_321","PIEN","Suppressed",2.519273,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.659657,"Band_2021",0,2021,0
+"419","MRS7_321","PIEN","Suppressed",2.519273,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.659657,"Band_2022",1.16,2022,0.00632664
+"420","MRS7_321","PIEN","Suppressed",2.519273,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.659657,"Band_2023",1.21,2023,0.00659934
+"421","MRS7_323","PIEN","Suppressed",3.805889,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.659657,"Band_2020",0,2020,0
+"422","MRS7_323","PIEN","Suppressed",3.805889,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.659657,"Band_2021",7.6,2021,0.0414504
+"423","MRS7_323","PIEN","Suppressed",3.805889,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.659657,"Band_2022",1.02,2022,0.00556308
+"424","MRS7_323","PIEN","Suppressed",3.805889,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.659657,"Band_2023",1.75,2023,0.0095445
+"425","MRS7_326","PIEN","Suppressed",2.944516,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.326137,"Band_2020",1.13,2020,0.00616302
+"426","MRS7_326","PIEN","Suppressed",2.944516,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.326137,"Band_2021",1.74,2021,0.00948996
+"427","MRS7_326","PIEN","Suppressed",2.944516,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.326137,"Band_2022",1.23,2022,0.00670842
+"428","MRS7_326","PIEN","Suppressed",2.944516,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.326137,"Band_2023",2.97,2023,0.01619838
+"429","MRS7_368","ABLA","Suppressed",4.192078,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.317633,"Band_2020",1.33,2020,0.00725382
+"430","MRS7_368","ABLA","Suppressed",4.192078,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.317633,"Band_2021",1.03,2021,0.00561762
+"431","MRS7_368","ABLA","Suppressed",4.192078,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.317633,"Band_2022",2.25,2022,0.0122715
+"432","MRS7_368","ABLA","Suppressed",4.192078,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.317633,"Band_2023",2.02,2023,0.01101708
+"433","MRS7_391","PIFL","Suppressed",4.777349,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.448676,"Band_2020",0.77,2020,0.00419958
+"434","MRS7_391","PIFL","Suppressed",4.777349,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.448676,"Band_2021",0.68,2021,0.00370872
+"435","MRS7_391","PIFL","Suppressed",4.777349,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.448676,"Band_2022",3.3,2022,0.0179982
+"436","MRS7_391","PIFL","Suppressed",4.777349,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-3.448676,"Band_2023",1.1,2023,0.0059994
+"437","MRS7_40","PIFL","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.34657192230225,"Band_2020",1.32,2020,0.00719928
+"438","MRS7_40","PIFL","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.34657192230225,"Band_2021",1.77,2021,0.00965358
+"439","MRS7_40","PIFL","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.34657192230225,"Band_2022",0,2022,0
+"440","MRS7_40","PIFL","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.34657192230225,"Band_2023",0,2023,0
+"441","MRS7_65","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.90687,"Band_2020",0,2020,0
+"442","MRS7_65","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.90687,"Band_2021",0,2021,0
+"443","MRS7_65","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.90687,"Band_2022",0,2022,0
+"444","MRS7_65","PIEN","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.90687,"Band_2023",0,2023,0
+"445","MRS7_69","ABLA","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.779582,"Band_2020",0,2020,0
+"446","MRS7_69","ABLA","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.779582,"Band_2021",2.32,2021,0.01265328
+"447","MRS7_69","ABLA","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.779582,"Band_2022",1.5,2022,0.008181
+"448","MRS7_69","ABLA","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.779582,"Band_2023",2.81,2023,0.01532574
+"449","MRS7_97","ABLA","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.90687,"Band_2020",0.92,2020,0.00501768
+"450","MRS7_97","ABLA","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.90687,"Band_2021",2.09,2021,0.01139886
+"451","MRS7_97","ABLA","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.90687,"Band_2022",3,2022,0.016362
+"452","MRS7_97","ABLA","Suppressed",NA,3260,"Xeric","Old Seral Post-fire Spruce-fir-pine",-4.90687,"Band_2023",4.92,2023,0.02683368
